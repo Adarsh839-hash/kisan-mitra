@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+kisan_env/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
+#Raw mandi datasets
+data/*.csv
